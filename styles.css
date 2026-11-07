@@ -1,6 +1,6 @@
 :root {
   color-scheme: light;
-  --paper: #f7f4ec;
+  --paper: #0788f9;
   --paper-deep: #eee9dc;
   --ink: #17241f;
   --muted: #73766c;
@@ -23,7 +23,7 @@ a { color: inherit; text-decoration: none; }
 .top-rule { display: flex; height: 4px; }
 .top-rule span { flex: 1; }
 .top-rule span:first-child { background: #e58b48; }
-.top-rule span:nth-child(2) { background: #f5f0e2; }
+.top-rule span:nth-child(2) { background: #0599e9; }
 .top-rule span:last-child { background: #2b704e; }
 
 .site-header { height: 82px; padding: 0 7.3%; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(23,36,31,.08); }
